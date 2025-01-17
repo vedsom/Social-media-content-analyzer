@@ -60,6 +60,9 @@ src/
 │   └── textExtraction.js
 └── App.jsx
 ```
+## 📸 Project Screenshots
+![Project Screenshot](public/Assets/Demo-img1.png)
+![Project Screenshot](public/Assets/Demo-img2.png)
 ## Available Scripts
 
 In the project directory, you can run:
