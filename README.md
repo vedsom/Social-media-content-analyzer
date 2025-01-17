@@ -16,7 +16,7 @@ A React application that analyzes PDFs and images to extract text and provide en
 ---
 
 ## 🚀 Live Demo
-[Add your deployed application URL here]
+[https://social-media-content-analyzer.netlify.app/]
 
 ---
 
