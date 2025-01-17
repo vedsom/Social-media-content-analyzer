@@ -16,7 +16,7 @@ A React application that analyzes PDFs and images to extract text and provide en
 ---
 
 ## 🚀 Live Demo
-[Add your deployed application URL here]
+[https://social-media-content-analyzer.netlify.app/]
 
 ---
 
@@ -60,6 +60,9 @@ src/
 │   └── textExtraction.js
 └── App.jsx
 ```
+## 📸 Project Screenshots
+![Project Screenshot](public/Assets/Demo-img1.png)
+![Project Screenshot](public/Assets/Demo-img2.png)
 ## Available Scripts
 
 In the project directory, you can run:
